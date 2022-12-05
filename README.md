@@ -1,9 +1,9 @@
 Boot Camp Prework Study Guide for Students
 # Prework Study Guide Webpage
 
-## Study guide for the prework for the bootcamp. It has notes about what we have learned so far. HTML, CSS, Git, and JavaScript
+## Description
 
-)
+Study guide for the prework for the bootcamp. It has notes about what we have learned so far. HTML, CSS, Git, and JavaScript
 
 ## Installation
 
